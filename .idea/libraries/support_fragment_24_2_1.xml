@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="support-fragment-24.2.1">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/3159f8f2559ef98bcad87534b705269282c29dfa/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/3159f8f2559ef98bcad87534b705269282c29dfa/output/res" />
-      <root url="jar://$USER_HOME$/.android/build-cache/3159f8f2559ef98bcad87534b705269282c29dfa/output/jars/libs/internal_impl-24.2.1.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/ae2758d242964d06e0502aa6ccce3351adfd4611/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/ae2758d242964d06e0502aa6ccce3351adfd4611/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/ae2758d242964d06e0502aa6ccce3351adfd4611/output/jars/libs/internal_impl-24.2.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar:///dades/dades/Marc/Projecte/sdk/extras/android/m2repository/com/android/support/support-fragment/24.2.1/support-fragment-24.2.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Escriptori/DADES/Marc/M8-Mobils/Android/android-sdk-linux/extras/android/m2repository/com/android/support/support-fragment/24.2.1/support-fragment-24.2.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
